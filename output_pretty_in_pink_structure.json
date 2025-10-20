@@ -1,0 +1,109 @@
+{
+  "sheet_name": "Pretty in Pink",
+  "product_type": "Wedding Kit Pack",
+  "product_name": "Pretty in Pink",
+  "flowers": [
+    {
+      "name": "Jessika Rose",
+      "color": "Light Pink",
+      "type": "FC ",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 2.0,
+        "S": 3.0,
+        "M": 5.0,
+        "L": 7.0
+      },
+      "combo": {
+        "S": null,
+        "M": 12.0,
+        "L": 30.0
+      }
+    },
+    {
+      "name": "Secret Garden Rose",
+      "color": "Blush",
+      "type": "FC ",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 1.0,
+        "S": 2.0,
+        "M": 4.0,
+        "L": 8.0
+      },
+      "combo": {
+        "S": null,
+        "M": 12.0,
+        "L": 25.0
+      }
+    },
+    {
+      "name": "Lydia Spray Rose",
+      "color": "Light Pink",
+      "type": "FL",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 1.0,
+        "S": 1.0,
+        "M": 2.0,
+        "L": 3.0
+      },
+      "combo": {
+        "S": null,
+        "M": 7.0,
+        "L": 15.0
+      }
+    },
+    {
+      "name": "Chablis Spray Rose",
+      "color": "Cream",
+      "type": "FL",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 1.0,
+        "S": 1.0,
+        "M": 2.0,
+        "L": 3.0
+      },
+      "combo": {
+        "S": null,
+        "M": 7.0,
+        "L": 15.0
+      }
+    },
+    {
+      "name": "Spray Stock",
+      "color": "Light Pink",
+      "type": "FL",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 1.0,
+        "S": 1.0,
+        "M": 2.0,
+        "L": 3.0
+      },
+      "combo": {
+        "S": null,
+        "M": 5.0,
+        "L": 10
+      }
+    },
+    {
+      "name": "Delphinium",
+      "color": "White",
+      "type": "L",
+      "farm": "EQR",
+      "bouquet": {
+        "XS": 1.0,
+        "S": 2.0,
+        "M": 3.0,
+        "L": 5.0
+      },
+      "combo": {
+        "S": null,
+        "M": 10.0,
+        "L": 20
+      }
+    }
+  ]
+}

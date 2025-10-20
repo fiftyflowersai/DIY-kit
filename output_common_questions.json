@@ -1,0 +1,41 @@
+{
+  "tab_lookup": [
+    "Find the [Product Name] tab",
+    "Which tab has information about [Product Name]?",
+    "Show me the [Product Name] sheet",
+    "Where can I find [Product Name]?",
+    "Look up [Product Name]"
+  ],
+  "material_quantities": [
+    "What materials are in the [Product Name] kit?",
+    "How many stems are in [Product Name] [Size]?",
+    "What's included in the [Product Name] [Size] kit?",
+    "List all materials for [Product Name]",
+    "What quantities do I need for [Product Name] [Size]?",
+    "How many roses are in [Product Name] [Size]?"
+  ],
+  "size_specific": [
+    "What's in the small [Product Name] kit?",
+    "Show me the medium size for [Product Name]",
+    "How many stems total in [Product Name] large?",
+    "What are the sizes available for [Product Name]?",
+    "Compare small vs medium [Product Name]"
+  ],
+  "specific_flowers": [
+    "How many [Flower Type] are in [Product Name] [Size]?",
+    "Does [Product Name] contain roses?",
+    "What color roses are in [Product Name]?",
+    "How many spray roses in [Product Name] medium?"
+  ],
+  "general_info": [
+    "Tell me about [Product Name]",
+    "What is [Product Name]?",
+    "Show me everything about [Product Name]",
+    "Give me details on [Product Name]"
+  ],
+  "comparison": [
+    "What's the difference between [Product A] and [Product B]?",
+    "Compare [Product A] small to [Product B] small",
+    "Which has more stems, [Product A] or [Product B]?"
+  ]
+}

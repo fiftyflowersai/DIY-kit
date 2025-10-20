@@ -1,0 +1,218 @@
+{
+  "Pretty in Pink": {
+    "best_match": "Pretty in Pink",
+    "score": 100.0,
+    "top_candidates": [
+      {
+        "name": "Pretty in Pink",
+        "score": 100.0
+      },
+      {
+        "name": "Hot Poppin Pink",
+        "score": 55.172413793103445
+      },
+      {
+        "name": "Playful Pink",
+        "score": 53.84615384615385
+      }
+    ]
+  },
+  "pretty pink": {
+    "best_match": "Pretty in Pink",
+    "score": 72.0,
+    "top_candidates": [
+      {
+        "name": "Pretty in Pink",
+        "score": 72.0
+      },
+      {
+        "name": "Alpine Oat",
+        "score": 47.61904761904761
+      },
+      {
+        "name": "Tasty Pink Cake",
+        "score": 46.15384615384615
+      }
+    ]
+  },
+  "PRETTY IN PINK": {
+    "best_match": null,
+    "score": 0,
+    "top_candidates": [
+      {
+        "name": "Pink Fall DIY",
+        "score": 29.629629629629626
+      },
+      {
+        "name": "Cotopaxi Pink DIY Kit",
+        "score": 28.57142857142857
+      },
+      {
+        "name": "Hot Poppin Pink",
+        "score": 27.586206896551722
+      }
+    ]
+  },
+  "Pretty n Pink": {
+    "best_match": "Pretty in Pink",
+    "score": 96.2962962962963,
+    "top_candidates": [
+      {
+        "name": "Pretty in Pink",
+        "score": 96.2962962962963
+      },
+      {
+        "name": "Playful Pink",
+        "score": 56.00000000000001
+      },
+      {
+        "name": "Purple Passion",
+        "score": 51.85185185185186
+      }
+    ]
+  },
+  "Pretty & Pink": {
+    "best_match": "Pretty in Pink",
+    "score": 81.4814814814815,
+    "top_candidates": [
+      {
+        "name": "Pretty in Pink",
+        "score": 81.4814814814815
+      },
+      {
+        "name": "Tasty Pink Cake",
+        "score": 57.14285714285714
+      },
+      {
+        "name": "Playful Pink",
+        "score": 56.00000000000001
+      }
+    ]
+  },
+  "pink pretty": {
+    "best_match": "Pretty in Pink",
+    "score": 72.0,
+    "top_candidates": [
+      {
+        "name": "Pretty in Pink",
+        "score": 72.0
+      },
+      {
+        "name": "Alpine Oat",
+        "score": 47.61904761904761
+      },
+      {
+        "name": "Tasty Pink Cake",
+        "score": 46.15384615384615
+      }
+    ]
+  },
+  "Rustic": {
+    "best_match": null,
+    "score": 0,
+    "top_candidates": [
+      {
+        "name": "Wild and Rustic",
+        "score": 57.14285714285714
+      },
+      {
+        "name": "Just Peachy",
+        "score": 47.05882352941176
+      },
+      {
+        "name": "Perfectly Peach Rustic",
+        "score": 42.85714285714286
+      }
+    ]
+  },
+  "rustic charm": {
+    "best_match": "Lucky Charm",
+    "score": 60.86956521739131,
+    "top_candidates": [
+      {
+        "name": "Lucky Charm",
+        "score": 60.86956521739131
+      },
+      {
+        "name": "Country Charm",
+        "score": 56.00000000000001
+      },
+      {
+        "name": "Perfectly Peach Rustic",
+        "score": 52.94117647058824
+      }
+    ]
+  },
+  "Garden Party": {
+    "best_match": "Kale Garden Party",
+    "score": 82.75862068965517,
+    "top_candidates": [
+      {
+        "name": "Kale Garden Party",
+        "score": 82.75862068965517
+      },
+      {
+        "name": "Pastel Gardens",
+        "score": 76.92307692307692
+      },
+      {
+        "name": "Maple Garden",
+        "score": 66.66666666666667
+      }
+    ]
+  },
+  "garden": {
+    "best_match": null,
+    "score": 0,
+    "top_candidates": [
+      {
+        "name": "Maple Garden",
+        "score": 55.55555555555556
+      },
+      {
+        "name": "Pink Paradise",
+        "score": 52.63157894736843
+      },
+      {
+        "name": "Simple Garden",
+        "score": 52.63157894736843
+      }
+    ]
+  },
+  "Romance": {
+    "best_match": null,
+    "score": 0,
+    "top_candidates": [
+      {
+        "name": "Modern Romance- done",
+        "score": 51.85185185185186
+      },
+      {
+        "name": "Monochromatic Red",
+        "score": 41.666666666666664
+      },
+      {
+        "name": "Monochromatic White",
+        "score": 38.46153846153846
+      }
+    ]
+  },
+  "romantic": {
+    "best_match": null,
+    "score": 0,
+    "top_candidates": [
+      {
+        "name": "Monochromatic Red",
+        "score": 56.00000000000001
+      },
+      {
+        "name": "Monochromatic Green",
+        "score": 51.85185185185186
+      },
+      {
+        "name": "Monochromatic White",
+        "score": 51.85185185185186
+      }
+    ]
+  }
+}

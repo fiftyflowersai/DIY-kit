@@ -1,0 +1,93 @@
+[
+  {
+    "test_id": "lookup_merry_&_bright",
+    "category": "tab_lookup",
+    "user_query": "Find the Merry & Bright tab",
+    "expected_behavior": "Should find worksheet 'Merry & Bright'",
+    "success_criteria": "Returns worksheet with exact or close match to 'Merry & Bright'"
+  },
+  {
+    "test_id": "materials_merry_&_bright_small",
+    "category": "material_quantities",
+    "user_query": "What materials are in the Merry & Bright small kit?",
+    "expected_behavior": "Should read Merry & Bright sheet and return small size materials with quantities",
+    "success_criteria": "Returns list of materials with quantities, mentions 'small' size"
+  },
+  {
+    "test_id": "stem_count_merry_&_bright_medium",
+    "category": "size_specific",
+    "user_query": "How many total stems are in Merry & Bright medium?",
+    "expected_behavior": "Should read Merry & Bright sheet, find medium size, sum all stem counts",
+    "success_criteria": "Returns a numeric total stem count"
+  },
+  {
+    "test_id": "lookup_joyous_noel",
+    "category": "tab_lookup",
+    "user_query": "Find the Joyous Noel tab",
+    "expected_behavior": "Should find worksheet 'Joyous Noel'",
+    "success_criteria": "Returns worksheet with exact or close match to 'Joyous Noel'"
+  },
+  {
+    "test_id": "materials_joyous_noel_small",
+    "category": "material_quantities",
+    "user_query": "What materials are in the Joyous Noel small kit?",
+    "expected_behavior": "Should read Joyous Noel sheet and return small size materials with quantities",
+    "success_criteria": "Returns list of materials with quantities, mentions 'small' size"
+  },
+  {
+    "test_id": "stem_count_joyous_noel_medium",
+    "category": "size_specific",
+    "user_query": "How many total stems are in Joyous Noel medium?",
+    "expected_behavior": "Should read Joyous Noel sheet, find medium size, sum all stem counts",
+    "success_criteria": "Returns a numeric total stem count"
+  },
+  {
+    "test_id": "lookup_jingle_bells_traditional_holida",
+    "category": "tab_lookup",
+    "user_query": "Find the Jingle Bells Traditional Holida tab",
+    "expected_behavior": "Should find worksheet 'Jingle Bells Traditional Holida'",
+    "success_criteria": "Returns worksheet with exact or close match to 'Jingle Bells Traditional Holida'"
+  },
+  {
+    "test_id": "materials_jingle_bells_traditional_holida_small",
+    "category": "material_quantities",
+    "user_query": "What materials are in the Jingle Bells Traditional Holida small kit?",
+    "expected_behavior": "Should read Jingle Bells Traditional Holida sheet and return small size materials with quantities",
+    "success_criteria": "Returns list of materials with quantities, mentions 'small' size"
+  },
+  {
+    "test_id": "stem_count_jingle_bells_traditional_holida_medium",
+    "category": "size_specific",
+    "user_query": "How many total stems are in Jingle Bells Traditional Holida medium?",
+    "expected_behavior": "Should read Jingle Bells Traditional Holida sheet, find medium size, sum all stem counts",
+    "success_criteria": "Returns a numeric total stem count"
+  },
+  {
+    "test_id": "fuzzy_pretty_pink_lowercase",
+    "category": "fuzzy_matching",
+    "user_query": "find pretty in pink",
+    "expected_behavior": "Should match 'Pretty in Pink' despite lowercase",
+    "success_criteria": "Finds 'Pretty in Pink' worksheet"
+  },
+  {
+    "test_id": "fuzzy_abbreviation",
+    "category": "fuzzy_matching",
+    "user_query": "pretty n pink",
+    "expected_behavior": "Should match 'Pretty in Pink' despite different formatting",
+    "success_criteria": "Finds 'Pretty in Pink' worksheet"
+  },
+  {
+    "test_id": "nonexistent_product",
+    "category": "error_handling",
+    "user_query": "Find the Unicorn Rainbow Sparkle kit",
+    "expected_behavior": "Should gracefully handle nonexistent product",
+    "success_criteria": "Returns helpful message indicating product not found, possibly suggests similar products"
+  },
+  {
+    "test_id": "ambiguous_query",
+    "category": "error_handling",
+    "user_query": "How many stems?",
+    "expected_behavior": "Should ask for clarification on which product and size",
+    "success_criteria": "Asks user to specify product name and/or size"
+  }
+]
